@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:title="Acceuil"
+            android:icon="@drawable/ic_home"
+            />
+
+        <item
+            android:id="@+id/apropos"
+            android:title="A propos de nous"
+            android:icon="@drawable/ic_info"/>
+
+        <item
+            android:id="@+id/expert"
+            android:title="Nos experts"
+            android:icon="@drawable/ic_group"/>
+
+        <item
+            android:id="@+id/service"
+            android:title="Nos services"
+            android:icon="@drawable/ic_service"/>
+
+        <item
+            android:id="@+id/rdv"
+            android:title="Rendez-vous"
+            android:icon="@drawable/ic_calendar"/>
+
+        <item
+            android:id="@+id/profil"
+            android:title="Profil"
+            android:icon="@drawable/ic_user"/>
+
+
+    </group>
+
+    <item android:title="">
+
+        <menu>
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/ic_exit"
+                android:title="Déconnexion">
+            </item>
+        </menu>
+    </item>
+</menu>

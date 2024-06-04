@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "500786636923",
+    "firebase_url": "https://kine-205af-default-rtdb.firebaseio.com",
+    "project_id": "kine-205af",
+    "storage_bucket": "kine-205af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500786636923:android:28b15f6440e95d9d685ade",
+        "android_client_info": {
+          "package_name": "com.example.fiinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpoouISKwcnH0dZuwfD77Ax8EcCSzzfwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
